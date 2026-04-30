@@ -1,0 +1,151 @@
+player_name,role,country,team,home_venue,season,matches,innings,runs,batting_avg,strike_rate,fours,sixes,fifties,hundreds,wickets,overs_bowled,economy_rate,bowling_avg,bowling_sr,base_price_lakh,auction_price_lakh
+Virat Kohli,Batter,India,MI,"Wankhede Stadium, Mumbai",2021,15,15,427,31.7,136.3,53,29,3,0,3,1.7,9.31,5.3,3.4,200,670.4
+Virat Kohli,Batter,India,MI,"Wankhede Stadium, Mumbai",2022,15,15,452,32.8,132.4,52,23,3,0,0,0.0,9.69,0.0,0.0,200,212.3
+Virat Kohli,Batter,India,MI,"Wankhede Stadium, Mumbai",2023,11,11,216,14.6,131.3,24,23,3,0,1,0.0,8.37,0.0,0.0,200,447.5
+Rohit Sharma,Batter,India,CSK,"MA Chidambaram Stadium, Chennai",2021,14,13,358,22.7,138.8,38,25,2,0,0,5.1,8.58,43.8,30.6,200,391.2
+Rohit Sharma,Batter,India,CSK,"MA Chidambaram Stadium, Chennai",2022,16,16,322,21.8,134.5,32,20,3,0,3,3.9,8.65,11.2,7.8,200,530.0
+Rohit Sharma,Batter,India,CSK,"MA Chidambaram Stadium, Chennai",2023,10,10,264,27.9,140.5,22,31,4,0,0,6.0,10.09,60.5,36.0,200,316.0
+KL Rahul,Batter,India,RCB,"M Chinnaswamy Stadium, Bangalore",2021,12,12,369,33.6,134.4,41,47,4,0,0,0.0,10.35,0.0,0.0,150,292.6
+KL Rahul,Batter,India,RCB,"M Chinnaswamy Stadium, Bangalore",2022,10,8,212,33.4,141.9,27,21,2,0,0,10.1,10.32,104.2,60.6,150,271.7
+KL Rahul,Batter,India,RCB,"M Chinnaswamy Stadium, Bangalore",2023,14,14,300,23.1,134.3,24,20,3,0,2,0.0,9.35,0.0,0.0,150,212.7
+Shubman Gill,Batter,India,KKR,"Eden Gardens, Kolkata",2021,10,10,266,33.4,147.8,27,22,3,0,0,14.0,9.79,137.1,84.0,100,121.4
+Shubman Gill,Batter,India,KKR,"Eden Gardens, Kolkata",2022,11,10,414,51.6,156.5,38,29,5,0,3,0.0,10.16,0.0,0.0,100,266.8
+Shubman Gill,Batter,India,KKR,"Eden Gardens, Kolkata",2023,15,15,351,15.1,139.1,39,24,3,0,0,7.6,10.68,81.2,45.6,100,148.9
+Ruturaj Gaikwad,Batter,India,DC,"Arun Jaitley Stadium, Delhi",2021,13,12,303,32.1,132.0,36,35,2,0,1,0.0,9.91,0.0,0.0,75,136.3
+Ruturaj Gaikwad,Batter,India,DC,"Arun Jaitley Stadium, Delhi",2022,11,11,472,50.8,129.6,49,26,5,0,0,0.0,9.74,0.0,0.0,75,164.6
+Ruturaj Gaikwad,Batter,India,DC,"Arun Jaitley Stadium, Delhi",2023,15,14,380,22.2,135.2,45,31,5,0,0,0.6,8.86,5.3,3.6,75,130.2
+Yashasvi Jaiswal,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2021,13,13,418,38.9,160.6,36,45,5,0,1,3.3,7.96,26.3,19.8,20,44.9
+Yashasvi Jaiswal,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2022,12,10,385,54.0,167.6,51,31,3,0,1,3.7,8.57,31.7,22.2,20,55.3
+Yashasvi Jaiswal,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2023,11,9,451,70.6,147.5,38,24,3,0,2,0.0,9.97,0.0,0.0,20,71.7
+Ishan Kishan,Batter,India,PBKS,"PCA Stadium, Mohali",2021,11,9,285,36.1,131.2,36,23,2,0,0,0.0,9.55,0.0,0.0,60,60.0
+Ishan Kishan,Batter,India,PBKS,"PCA Stadium, Mohali",2022,13,12,424,54.9,127.0,47,54,3,0,0,0.8,10.15,8.1,4.8,60,77.5
+Ishan Kishan,Batter,India,PBKS,"PCA Stadium, Mohali",2023,15,13,401,22.8,153.7,48,37,4,0,1,6.6,10.13,66.9,39.6,60,93.2
+Devdutt Padikkal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2021,16,14,254,22.7,144.3,22,21,3,0,1,7.5,8.96,67.2,45.0,20,36.0
+Devdutt Padikkal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2022,10,8,407,77.2,129.4,56,45,5,0,1,0.0,10.03,0.0,0.0,20,31.6
+Devdutt Padikkal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2023,10,8,454,71.6,151.9,59,41,3,0,2,8.1,10.16,41.1,24.3,20,69.4
+Tilak Varma,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2021,11,10,356,35.1,129.0,40,39,4,0,0,3.2,9.77,31.3,19.2,20,37.0
+Tilak Varma,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2022,10,8,458,83.6,138.2,50,26,4,0,0,31.2,10.0,312.0,187.2,20,32.7
+Tilak Varma,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2023,16,15,278,18.7,143.8,23,33,2,0,1,8.7,9.44,82.1,52.2,20,26.6
+Rinku Singh,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2021,10,8,236,51.5,132.6,30,30,3,0,1,0.0,9.64,0.0,0.0,20,35.3
+Rinku Singh,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2022,16,16,296,20.0,139.8,35,37,2,0,0,7.6,9.95,75.6,45.6,20,42.6
+Rinku Singh,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2023,12,10,480,63.9,121.5,66,59,6,0,1,9.1,9.91,90.2,54.6,20,83.5
+MS Dhoni,Wicket-Keeper,India,MI,"Wankhede Stadium, Mumbai",2021,15,15,388,34.6,145.6,40,40,4,0,0,0.0,10.61,0.0,0.0,200,301.1
+MS Dhoni,Wicket-Keeper,India,MI,"Wankhede Stadium, Mumbai",2022,13,11,319,40.3,126.2,27,21,3,0,2,0.0,10.55,0.0,0.0,200,236.3
+MS Dhoni,Wicket-Keeper,India,MI,"Wankhede Stadium, Mumbai",2023,10,8,299,43.0,145.1,34,15,4,0,0,0.0,10.54,0.0,0.0,200,251.5
+Sanju Samson,Wicket-Keeper,India,CSK,"MA Chidambaram Stadium, Chennai",2021,15,15,358,22.3,132.5,30,18,3,0,2,6.3,8.38,26.4,18.9,80,178.4
+Sanju Samson,Wicket-Keeper,India,CSK,"MA Chidambaram Stadium, Chennai",2022,10,8,283,36.5,142.2,27,25,4,0,0,5.0,10.69,53.4,30.0,80,80.0
+Sanju Samson,Wicket-Keeper,India,CSK,"MA Chidambaram Stadium, Chennai",2023,11,9,311,48.6,126.3,29,27,3,0,1,4.0,8.99,36.0,24.0,80,177.9
+Rishabh Pant,Wicket-Keeper,India,RCB,"M Chinnaswamy Stadium, Bangalore",2021,11,11,520,39.7,144.4,62,40,5,0,0,12.7,9.43,119.8,76.2,200,500.8
+Rishabh Pant,Wicket-Keeper,India,RCB,"M Chinnaswamy Stadium, Bangalore",2022,15,15,405,26.7,120.9,33,43,3,0,0,0.0,9.8,0.0,0.0,200,239.1
+Rishabh Pant,Wicket-Keeper,India,RCB,"M Chinnaswamy Stadium, Bangalore",2023,11,11,478,45.6,114.8,53,29,3,0,0,14.4,8.85,127.4,86.4,200,517.9
+Jasprit Bumrah,Bowler,India,KKR,"Eden Gardens, Kolkata",2021,12,11,60,8.3,103.2,7,3,2,0,19,46.0,7.86,19.0,14.5,200,860.7
+Jasprit Bumrah,Bowler,India,KKR,"Eden Gardens, Kolkata",2022,10,10,61,14.0,122.9,8,7,0,0,8,73.3,6.24,57.2,55.0,200,464.3
+Jasprit Bumrah,Bowler,India,KKR,"Eden Gardens, Kolkata",2023,11,10,68,6.6,118.4,7,8,0,0,16,47.1,7.33,21.6,17.7,200,884.2
+Mohammed Shami,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2021,11,10,65,11.0,106.7,9,4,1,0,20,60.1,8.3,24.9,18.0,200,862.8
+Mohammed Shami,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2022,12,11,51,9.4,124.0,4,3,0,0,17,53.2,8.82,27.6,18.8,200,775.4
+Mohammed Shami,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2023,14,12,68,4.6,112.6,8,3,2,0,26,60.3,8.45,19.6,13.9,200,1323.9
+Yuzvendra Chahal,Bowler,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2021,13,11,60,4.4,123.2,5,5,0,0,20,50.7,7.88,20.0,15.2,100,509.4
+Yuzvendra Chahal,Bowler,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2022,10,8,47,0.8,140.1,5,3,0,0,9,63.6,8.43,59.6,42.4,100,295.4
+Yuzvendra Chahal,Bowler,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2023,14,14,69,0.4,114.9,8,5,2,0,18,45.2,8.58,21.5,15.1,100,430.8
+Ravindra Jadeja,All-Rounder,India,PBKS,"PCA Stadium, Mohali",2021,14,12,222,24.3,144.1,30,14,3,0,7,19.8,8.59,24.3,17.0,200,581.8
+Ravindra Jadeja,All-Rounder,India,PBKS,"PCA Stadium, Mohali",2022,12,12,244,25.6,142.3,25,25,3,0,3,13.9,7.83,36.3,27.8,200,387.4
+Ravindra Jadeja,All-Rounder,India,PBKS,"PCA Stadium, Mohali",2023,13,12,301,29.4,165.7,24,30,4,0,9,27.8,7.6,23.5,18.5,200,704.4
+Hardik Pandya,All-Rounder,India,RR,"Sawai Mansingh Stadium, Jaipur",2021,10,10,259,24.6,151.9,28,15,3,0,12,43.3,8.31,30.0,21.6,150,620.6
+Hardik Pandya,All-Rounder,India,RR,"Sawai Mansingh Stadium, Jaipur",2022,10,10,328,42.1,143.2,31,27,4,0,10,29.0,7.78,22.6,17.4,150,556.8
+Hardik Pandya,All-Rounder,India,RR,"Sawai Mansingh Stadium, Jaipur",2023,15,14,314,27.2,165.4,37,29,4,0,19,20.3,9.1,9.7,6.4,150,849.1
+Axar Patel,All-Rounder,India,GT,"Narendra Modi Stadium, Ahmedabad",2021,10,10,433,49.9,138.3,37,25,5,0,7,6.8,7.98,7.8,5.8,75,225.8
+Axar Patel,All-Rounder,India,GT,"Narendra Modi Stadium, Ahmedabad",2022,11,10,290,45.6,152.1,33,31,2,0,14,22.2,7.68,12.2,9.5,75,350.7
+Axar Patel,All-Rounder,India,GT,"Narendra Modi Stadium, Ahmedabad",2023,15,13,187,22.9,170.0,20,13,1,0,7,10.9,9.48,14.8,9.3,75,206.5
+Washington Sundar,All-Rounder,India,LSG,"Ekana Cricket Stadium, Lucknow",2021,10,8,366,70.2,128.9,47,19,4,0,10,28.5,8.04,22.9,17.1,50,202.7
+Washington Sundar,All-Rounder,India,LSG,"Ekana Cricket Stadium, Lucknow",2022,16,16,205,15.2,146.3,18,17,3,0,12,35.1,7.5,21.9,17.6,50,149.0
+Washington Sundar,All-Rounder,India,LSG,"Ekana Cricket Stadium, Lucknow",2023,13,11,369,29.8,152.0,31,46,5,0,16,29.2,9.34,17.0,10.9,50,255.0
+Shivam Dube,All-Rounder,India,MI,"Wankhede Stadium, Mumbai",2021,11,9,424,45.9,169.1,55,40,3,0,14,34.5,9.49,23.4,14.8,20,88.7
+Shivam Dube,All-Rounder,India,MI,"Wankhede Stadium, Mumbai",2022,13,13,328,16.4,160.7,32,39,2,0,4,7.6,8.18,15.5,11.4,20,58.9
+Shivam Dube,All-Rounder,India,MI,"Wankhede Stadium, Mumbai",2023,12,12,385,43.1,148.9,46,30,5,0,3,11.0,8.36,30.7,22.0,20,53.8
+Jos Buttler,Batter,England,CSK,"MA Chidambaram Stadium, Chennai",2021,16,15,376,26.4,113.2,50,25,3,0,0,10.7,9.79,104.8,64.2,150,183.6
+Jos Buttler,Batter,England,CSK,"MA Chidambaram Stadium, Chennai",2022,16,16,331,25.1,125.3,26,36,3,0,2,0.0,9.9,0.0,0.0,150,263.2
+Jos Buttler,Batter,England,CSK,"MA Chidambaram Stadium, Chennai",2023,16,15,304,16.5,136.7,29,34,2,0,0,0.0,11.07,0.0,0.0,150,242.0
+Jonny Bairstow,Batter,England,RCB,"M Chinnaswamy Stadium, Bangalore",2021,13,13,313,30.7,140.6,29,36,3,0,0,10.1,10.11,102.1,60.6,100,137.7
+Jonny Bairstow,Batter,England,RCB,"M Chinnaswamy Stadium, Bangalore",2022,12,11,325,21.0,134.7,30,33,3,0,0,17.7,10.82,191.5,106.2,100,152.4
+Jonny Bairstow,Batter,England,RCB,"M Chinnaswamy Stadium, Bangalore",2023,12,11,434,54.8,141.7,59,31,5,0,2,2.7,8.74,11.8,8.1,100,160.7
+Sam Curran,All-Rounder,England,KKR,"Eden Gardens, Kolkata",2021,14,13,294,19.6,138.9,40,17,3,0,7,17.2,9.75,24.0,14.7,100,341.7
+Sam Curran,All-Rounder,England,KKR,"Eden Gardens, Kolkata",2022,11,9,279,40.2,165.8,22,27,3,0,6,43.2,8.83,63.6,43.2,100,234.7
+Sam Curran,All-Rounder,England,KKR,"Eden Gardens, Kolkata",2023,15,14,266,17.3,137.5,30,24,3,0,14,47.1,7.28,24.5,20.2,100,456.7
+Liam Livingstone,All-Rounder,England,DC,"Arun Jaitley Stadium, Delhi",2021,14,14,234,16.5,142.2,19,19,3,0,6,28.5,7.74,36.8,28.5,75,206.1
+Liam Livingstone,All-Rounder,England,DC,"Arun Jaitley Stadium, Delhi",2022,16,14,276,16.7,145.1,28,15,4,0,7,35.6,8.8,44.8,30.5,75,184.9
+Liam Livingstone,All-Rounder,England,DC,"Arun Jaitley Stadium, Delhi",2023,12,10,286,27.4,157.0,34,17,3,0,12,21.4,8.86,15.8,10.7,75,274.6
+David Warner,Batter,Australia,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2021,14,13,208,21.0,118.5,20,22,3,0,1,0.0,10.01,0.0,0.0,150,150.0
+David Warner,Batter,Australia,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2022,11,11,373,43.4,123.5,44,29,5,0,1,0.0,9.19,0.0,0.0,150,365.9
+David Warner,Batter,Australia,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2023,11,9,325,40.8,148.0,33,37,3,0,1,18.4,7.52,138.4,110.4,150,227.5
+Steve Smith,Batter,Australia,PBKS,"PCA Stadium, Mohali",2021,12,12,434,50.1,135.6,55,42,4,0,0,4.9,9.38,46.0,29.4,125,320.5
+Steve Smith,Batter,Australia,PBKS,"PCA Stadium, Mohali",2022,13,12,404,42.8,142.1,48,36,5,0,0,0.0,9.82,0.0,0.0,125,214.0
+Steve Smith,Batter,Australia,PBKS,"PCA Stadium, Mohali",2023,11,9,407,49.6,162.9,39,41,5,0,0,16.0,9.17,146.7,96.0,125,127.1
+Glenn Maxwell,All-Rounder,Australia,RR,"Sawai Mansingh Stadium, Jaipur",2021,12,12,209,17.2,125.6,25,14,1,0,10,44.8,8.66,38.8,26.9,125,393.2
+Glenn Maxwell,All-Rounder,Australia,RR,"Sawai Mansingh Stadium, Jaipur",2022,11,11,338,31.9,121.5,32,29,2,0,13,13.2,9.32,9.5,6.1,125,548.8
+Glenn Maxwell,All-Rounder,Australia,RR,"Sawai Mansingh Stadium, Jaipur",2023,13,12,250,34.1,155.6,30,20,3,0,10,30.5,8.03,24.5,18.3,125,387.9
+Mitchell Starc,Bowler,Australia,GT,"Narendra Modi Stadium, Ahmedabad",2021,11,11,72,6.9,104.7,9,8,0,0,14,56.8,8.07,32.7,24.3,200,811.7
+Mitchell Starc,Bowler,Australia,GT,"Narendra Modi Stadium, Ahmedabad",2022,16,15,52,0.0,111.8,4,6,2,0,14,55.8,8.41,33.5,23.9,200,610.8
+Mitchell Starc,Bowler,Australia,GT,"Narendra Modi Stadium, Ahmedabad",2023,13,13,73,8.2,131.3,9,4,0,0,31,44.3,6.8,9.7,8.6,200,1237.2
+Pat Cummins,Bowler,Australia,LSG,"Ekana Cricket Stadium, Lucknow",2021,16,15,82,6.0,122.9,11,9,2,0,20,40.7,9.76,19.9,12.2,200,985.0
+Pat Cummins,Bowler,Australia,LSG,"Ekana Cricket Stadium, Lucknow",2022,16,14,61,8.0,123.7,7,5,0,0,19,44.1,8.18,19.0,13.9,200,1108.5
+Pat Cummins,Bowler,Australia,LSG,"Ekana Cricket Stadium, Lucknow",2023,15,14,80,4.7,134.1,7,5,2,0,10,50.7,7.84,39.7,30.4,200,691.5
+Faf du Plessis,Batter,South Africa,MI,"Wankhede Stadium, Mumbai",2021,12,10,219,30.5,156.4,25,15,1,0,0,0.0,8.18,0.0,0.0,100,185.1
+Faf du Plessis,Batter,South Africa,MI,"Wankhede Stadium, Mumbai",2022,15,14,386,23.2,122.5,37,29,5,0,0,20.7,9.29,192.3,124.2,100,101.9
+Faf du Plessis,Batter,South Africa,MI,"Wankhede Stadium, Mumbai",2023,10,10,356,26.1,134.7,33,37,4,0,0,1.7,10.06,17.1,10.2,100,266.6
+Quinton de Kock,Wicket-Keeper,South Africa,CSK,"MA Chidambaram Stadium, Chennai",2021,11,11,435,48.8,128.8,45,40,4,0,2,0.6,10.01,3.0,1.8,100,233.7
+Quinton de Kock,Wicket-Keeper,South Africa,CSK,"MA Chidambaram Stadium, Chennai",2022,10,10,356,48.0,130.3,36,39,4,0,0,0.0,9.57,0.0,0.0,100,136.3
+Quinton de Kock,Wicket-Keeper,South Africa,CSK,"MA Chidambaram Stadium, Chennai",2023,10,8,349,77.3,128.9,37,43,3,0,0,10.9,11.0,119.9,65.4,100,100.0
+Kagiso Rabada,Bowler,South Africa,RCB,"M Chinnaswamy Stadium, Bangalore",2021,16,15,54,0.0,110.5,6,5,2,0,12,40.9,9.2,31.4,20.4,150,537.4
+Kagiso Rabada,Bowler,South Africa,RCB,"M Chinnaswamy Stadium, Bangalore",2022,11,10,79,3.1,123.7,7,7,1,0,14,56.9,6.82,27.7,24.4,150,601.8
+Kagiso Rabada,Bowler,South Africa,RCB,"M Chinnaswamy Stadium, Bangalore",2023,12,10,56,11.6,110.5,6,6,0,0,21,48.4,8.73,20.1,13.8,150,657.0
+Anrich Nortje,Bowler,South Africa,KKR,"Eden Gardens, Kolkata",2021,14,12,69,4.2,122.1,9,6,2,0,20,39.5,8.54,16.9,11.8,100,472.5
+Anrich Nortje,Bowler,South Africa,KKR,"Eden Gardens, Kolkata",2022,10,10,52,3.9,127.6,4,4,0,0,7,36.4,8.28,43.1,31.2,100,155.4
+Anrich Nortje,Bowler,South Africa,KKR,"Eden Gardens, Kolkata",2023,12,11,86,18.0,90.0,7,6,1,0,19,51.0,7.36,19.8,16.1,100,470.8
+Heinrich Klaasen,Wicket-Keeper,South Africa,DC,"Arun Jaitley Stadium, Delhi",2021,12,11,336,37.9,145.2,43,29,4,0,0,0.0,9.95,0.0,0.0,75,141.6
+Heinrich Klaasen,Wicket-Keeper,South Africa,DC,"Arun Jaitley Stadium, Delhi",2022,14,14,194,19.9,115.8,18,10,3,0,0,0.0,10.01,0.0,0.0,75,100.1
+Heinrich Klaasen,Wicket-Keeper,South Africa,DC,"Arun Jaitley Stadium, Delhi",2023,10,10,294,33.6,122.7,27,15,2,0,0,4.1,8.64,35.4,24.6,75,150.8
+Suryakumar Yadav,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2021,11,11,424,57.9,141.1,50,40,3,0,3,14.1,8.03,37.7,28.2,150,290.7
+Suryakumar Yadav,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2022,13,11,320,38.1,138.3,40,20,4,0,0,5.9,8.9,52.5,35.4,150,201.9
+Suryakumar Yadav,Batter,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2023,15,13,246,12.2,126.9,31,15,3,0,0,14.5,8.74,126.7,87.0,150,403.3
+Deepak Chahar,Bowler,India,PBKS,"PCA Stadium, Mohali",2021,10,8,67,4.1,117.2,9,6,1,0,23,46.2,7.9,15.9,12.1,75,500.0
+Deepak Chahar,Bowler,India,PBKS,"PCA Stadium, Mohali",2022,13,11,58,2.3,128.8,4,6,2,0,17,69.7,7.3,29.9,24.6,75,384.3
+Deepak Chahar,Bowler,India,PBKS,"PCA Stadium, Mohali",2023,11,11,70,10.9,108.3,9,6,0,0,25,58.2,6.54,15.2,14.0,75,404.1
+Trent Boult,Bowler,New Zealand,RR,"Sawai Mansingh Stadium, Jaipur",2021,16,14,56,7.1,114.1,5,4,1,0,19,38.6,8.1,16.5,12.2,125,605.5
+Trent Boult,Bowler,New Zealand,RR,"Sawai Mansingh Stadium, Jaipur",2022,10,8,68,15.5,128.0,5,5,1,0,21,51.3,6.47,15.8,14.7,125,657.4
+Trent Boult,Bowler,New Zealand,RR,"Sawai Mansingh Stadium, Jaipur",2023,10,9,63,2.6,118.3,7,7,2,0,10,62.5,7.77,48.6,37.5,125,390.2
+Sunil Narine,All-Rounder,West Indies,GT,"Narendra Modi Stadium, Ahmedabad",2021,11,10,281,35.9,148.4,34,35,3,0,7,29.0,8.03,33.3,24.9,100,276.8
+Sunil Narine,All-Rounder,West Indies,GT,"Narendra Modi Stadium, Ahmedabad",2022,14,12,258,26.3,150.7,27,29,4,0,15,19.1,8.25,10.5,7.6,100,430.8
+Sunil Narine,All-Rounder,West Indies,GT,"Narendra Modi Stadium, Ahmedabad",2023,12,11,381,43.3,150.4,49,21,4,0,3,30.7,9.11,93.2,61.4,100,253.6
+Andre Russell,All-Rounder,West Indies,LSG,"Ekana Cricket Stadium, Lucknow",2021,11,10,354,57.6,141.8,35,31,3,0,20,24.4,8.04,9.8,7.3,125,812.2
+Andre Russell,All-Rounder,West Indies,LSG,"Ekana Cricket Stadium, Lucknow",2022,11,10,390,41.2,141.7,39,27,4,0,8,14.6,7.67,14.0,10.9,125,372.1
+Andre Russell,All-Rounder,West Indies,LSG,"Ekana Cricket Stadium, Lucknow",2023,14,12,226,23.8,147.6,25,20,1,0,16,18.0,9.19,10.3,6.8,125,563.6
+Nicholas Pooran,Wicket-Keeper,West Indies,MI,"Wankhede Stadium, Mumbai",2021,10,10,335,42.2,140.1,36,37,4,0,0,1.7,10.39,17.7,10.2,75,138.8
+Nicholas Pooran,Wicket-Keeper,West Indies,MI,"Wankhede Stadium, Mumbai",2022,13,11,548,65.8,124.3,58,28,5,0,0,0.0,9.49,0.0,0.0,75,214.5
+Nicholas Pooran,Wicket-Keeper,West Indies,MI,"Wankhede Stadium, Mumbai",2023,15,15,460,31.2,125.2,55,36,5,0,0,0.0,10.51,0.0,0.0,75,158.1
+Kieron Pollard,All-Rounder,West Indies,CSK,"MA Chidambaram Stadium, Chennai",2021,14,13,173,26.3,166.6,24,16,2,0,7,24.1,8.63,29.7,20.7,75,218.9
+Kieron Pollard,All-Rounder,West Indies,CSK,"MA Chidambaram Stadium, Chennai",2022,15,14,326,26.3,172.1,32,22,4,0,6,14.2,7.82,18.5,14.2,75,226.6
+Kieron Pollard,All-Rounder,West Indies,CSK,"MA Chidambaram Stadium, Chennai",2023,11,10,405,41.6,141.8,50,51,5,0,9,39.9,10.42,46.2,26.6,75,259.4
+Mohammed Siraj,Bowler,India,RCB,"M Chinnaswamy Stadium, Bangalore",2021,11,11,52,8.6,127.5,6,3,2,0,31,57.8,7.51,14.0,11.2,75,546.7
+Mohammed Siraj,Bowler,India,RCB,"M Chinnaswamy Stadium, Bangalore",2022,16,14,76,8.9,124.8,10,8,1,0,25,63.7,8.91,22.7,15.3,75,463.2
+Mohammed Siraj,Bowler,India,RCB,"M Chinnaswamy Stadium, Bangalore",2023,11,10,57,12.4,116.8,5,6,0,0,12,55.7,7.49,34.8,27.9,75,237.7
+Arshdeep Singh,Bowler,India,KKR,"Eden Gardens, Kolkata",2021,12,12,79,6.8,117.3,8,8,0,0,8,59.5,8.32,61.9,44.6,50,175.3
+Arshdeep Singh,Bowler,India,KKR,"Eden Gardens, Kolkata",2022,15,14,55,5.2,117.6,7,5,1,0,29,51.0,8.02,14.1,10.6,50,342.8
+Arshdeep Singh,Bowler,India,KKR,"Eden Gardens, Kolkata",2023,13,12,62,7.2,109.6,5,3,1,0,25,41.7,7.91,13.2,10.0,50,269.2
+Kuldeep Yadav,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2021,10,10,77,8.2,96.7,8,7,2,0,20,67.7,7.75,26.2,20.3,75,332.8
+Kuldeep Yadav,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2022,10,10,88,0.0,97.6,11,11,0,0,21,47.0,6.98,15.6,13.4,75,398.0
+Kuldeep Yadav,Bowler,India,DC,"Arun Jaitley Stadium, Delhi",2023,11,11,63,1.5,108.2,7,7,0,0,24,58.5,7.72,18.8,14.6,75,484.0
+R Ashwin,All-Rounder,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2021,16,14,205,15.2,129.7,21,17,3,0,9,30.4,8.21,27.7,20.3,125,404.9
+R Ashwin,All-Rounder,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2022,13,12,192,15.6,165.3,22,20,1,0,15,31.4,8.77,18.4,12.6,125,585.9
+R Ashwin,All-Rounder,India,SRH,"Rajiv Gandhi Intl Stadium, Hyderabad",2023,15,15,311,30.6,155.7,37,19,2,0,10,35.1,8.33,29.2,21.1,125,553.9
+Dinesh Karthik,Wicket-Keeper,India,PBKS,"PCA Stadium, Mohali",2021,14,14,282,21.5,153.6,22,24,4,0,0,1.3,9.46,12.3,7.8,75,152.6
+Dinesh Karthik,Wicket-Keeper,India,PBKS,"PCA Stadium, Mohali",2022,13,12,284,14.2,126.6,26,30,4,0,0,0.0,8.73,0.0,0.0,75,139.9
+Dinesh Karthik,Wicket-Keeper,India,PBKS,"PCA Stadium, Mohali",2023,16,15,406,22.2,137.1,49,50,5,0,0,0.0,9.07,0.0,0.0,75,199.1
+Mayank Agarwal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2021,14,12,463,42.2,135.3,48,43,5,0,1,0.0,9.3,0.0,0.0,75,144.3
+Mayank Agarwal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2022,11,10,284,40.5,134.6,23,17,3,0,1,0.0,9.96,0.0,0.0,75,181.9
+Mayank Agarwal,Batter,India,RR,"Sawai Mansingh Stadium, Jaipur",2023,14,12,467,43.5,138.7,49,40,4,0,1,7.9,10.22,80.7,47.4,75,195.9
+Manish Pandey,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2021,15,14,479,46.5,131.6,52,42,3,0,1,24.8,8.95,222.0,148.8,50,158.1
+Manish Pandey,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2022,14,14,398,33.8,130.2,49,39,3,0,0,8.2,9.92,81.3,49.2,50,77.9
+Manish Pandey,Batter,India,GT,"Narendra Modi Stadium, Ahmedabad",2023,10,10,377,46.3,163.7,52,39,4,0,1,4.4,9.6,42.2,26.4,50,122.8
+Ambati Rayudu,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2021,14,14,282,13.3,134.9,30,28,3,0,1,10.5,9.11,95.7,63.0,50,125.4
+Ambati Rayudu,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2022,11,9,263,45.0,120.4,31,23,2,0,2,20.8,9.13,95.0,62.4,50,116.5
+Ambati Rayudu,Batter,India,LSG,"Ekana Cricket Stadium, Lucknow",2023,13,12,376,46.2,135.9,37,38,3,0,1,0.0,10.68,0.0,0.0,50,134.9
