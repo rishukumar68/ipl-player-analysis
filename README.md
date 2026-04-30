@@ -163,10 +163,11 @@ This type of analysis is directly applicable to:
 
 ## 👤 Author
 
-**[Your Name]**
-- 📧 your.email@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 💻 [GitHub](https://github.com/yourusername)
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/rishu-kumar-84092b27a)
+- 💻 [GitHub](https://github.com/rishukumar68)
+- 📧 rishukrhfc2004@gmail.com
 
 ---
 
